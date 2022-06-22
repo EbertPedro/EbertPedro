@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm Ebert :smiley:. I am passionate about Machine Learning,
+Deep Learning and Data Science :blue_heart:. I have worked on projects 
+related to the medical field such as signal processing 
+with sEMG, also I develop a system to predict bearing 
+failures using deep learning tools.
+I would like to connect with other people to solve 
+challenges involving data and keep in touch to build a
+great team. 
+Do not hesitate to say hello 👋 in my social medias and let's build a great team :star:.
 
 <!--
 **EbertPedro/EbertPedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
